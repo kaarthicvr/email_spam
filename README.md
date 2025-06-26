@@ -88,7 +88,7 @@ Spam mail
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/yourusername/spam-mail-detector.git
+https://github.com/kaarthicvr/email_spam.git
 cd spam-mail-detector
 ```
 
